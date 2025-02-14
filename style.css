@@ -140,6 +140,9 @@ a:active{
 #reddit{
     background-color:rgb(255, 69, 0) ;
 }
+#telegram{
+    background-color: #039BE5;
+}
 
 @media (min-width: 480px) { 
 
