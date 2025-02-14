@@ -41,7 +41,7 @@
 .top{
     display: flex;
     flex-direction: column;
-    height: 120vh;
+    height: 119vh;
     width: 100vw;
     gap: 10px;
     justify-content: center;
